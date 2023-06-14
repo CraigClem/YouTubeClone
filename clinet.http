@@ -1,0 +1,3 @@
+@url=https://yt-api.p.rapidapi.com
+
+GET {{url}}/trending
